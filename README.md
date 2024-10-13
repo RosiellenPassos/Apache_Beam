@@ -11,3 +11,7 @@ Neste repositório você irá encontrar minha exploração no Apache Beam na Goo
 - Serviços do Google Cloud: Aproveitando ferramentas do GCP como BigQuery, Cloud Dataflow e Cloud Storage.
 - Outras Ferramentas: Investigando tecnologias complementares que se integram ao Apache Beam.
 
+## Git Ignore:
+- /venv
+- source venv/bin/activate
+
